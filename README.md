@@ -91,7 +91,7 @@ Definido en `.github/workflows/ci-cd.yml`:
 
 ---
 
-## 🛠️ Ejecución y Pruebas Locales
+🛠️ Ejecución y Pruebas Locales
 
 ```bash
 # Compilar la aplicación completa
