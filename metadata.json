@@ -1,0 +1,6 @@
+{
+  "name": "Verbum Lex Core",
+  "description": "Motor Jurídico Universal con evidencia, grafo normativo, hermeneuta, auditoría y expedientes",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

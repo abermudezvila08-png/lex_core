@@ -1,0 +1,30 @@
+MIT License with Responsible AI & Epistemic Traceability Clause
+
+Copyright (c) 2026 VERBUM LEX CORE Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+RESPONSIBLE AI & EPISTEMIC INTEGRITY CLAUSE:
+1. "Ninguna conclusión jurídica importante sin traza de evidencia."
+2. The user and implementer must maintain the distinction between:
+   HECHO ≠ NORMA ≠ EVIDENCIA ≠ INTERPRETACIÓN ≠ INFERENCIA ≠ CONCLUSIÓN.
+3. Machine-assisted inferences must never be presented as verified official
+   law without cryptographic verification and citation of official gazette sources.
+4. The software may not be used to fabricate or misrepresent legal norms or
+   compromise judicial guarantees.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

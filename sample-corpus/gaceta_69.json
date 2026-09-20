@@ -1,0 +1,111 @@
+{
+  "corpus_id": "GACETA-69-ORD-2026",
+  "gaceta": "Gaceta Oficial No. 69 Ordinaria de 2026",
+  "edicion": "Ordinaria",
+  "numero": "69",
+  "fecha_publicacion": "2026-08-28",
+  "url_oficial": "https://www.gacetaoficial.gob.cu/es/gaceta-oficial-no-69-ordinaria-de-2026",
+  "hash_integridad_gaceta": "68f7b7cb3bdf11f0c3f0c326e6378c80ad3ff7111244e8c4e402927d60f585d5",
+  "estado": "PENDIENTE_VERIFICACIÓN",
+  "principio_epistemologico": "HECHO ≠ NORMA ≠ EVIDENCIA ≠ INTERPRETACIÓN ≠ INFERENCIA ≠ CONCLUSIÓN",
+  "normas": [
+    {
+      "id": "DL-129-2026",
+      "titulo": "Decreto-Ley 129/2026 Derogatorio del Decreto-Ley 155/1994",
+      "tipo": "DECRETO_LEY",
+      "gaceta": "Gaceta Oficial No. 69 Ordinaria de 2026",
+      "edicion": "Ordinaria",
+      "numero": "69",
+      "fecha_publicacion": "2026-08-28",
+      "fecha_vigencia": "2026-08-28",
+      "organo_emisor": "Consejo de Estado",
+      "resumen": "Deroga expresamente el Decreto-Ley 155 de 28 de septiembre de 1994 sobre decomiso de mercancías por violaciones del Registro Central Comercial.",
+      "materias": "mercantil, decomiso, registro central comercial, derogacion, contravenciones",
+      "prioridad": "P1",
+      "goc_id": "GOC-2026-466-O69",
+      "raw_texto_oficial": "ARTÍCULO 1. Se deroga expresamente en todas sus partes el Decreto-Ley No. 155 de 28 de septiembre de 1994, De las contravenciones de las regulaciones sobre el Registro Central Comercial. Las actuaciones sancionatorias en curso se adecuan de oficio al nuevo régimen legal más favorable.\n\nARTÍCULO 2. Las autoridades administrativas competentes y el Ministerio del Comercio Interior quedan obligados a cesar la imposición de decomisos directos no reglamentados y remitir las infracciones al procedimiento contravencional unificado.\n\nDISPOSICIÓN FINAL ÚNICA. El presente Decreto-Ley entra en vigor a partir de su publicación en la Gaceta Oficial de la República de Cuba.",
+      "hash_oficial_esperado": "f784e1b858aa58ae90d81048b2612f008f51a7194f4a382e87c06282845c4786",
+      "estado": "PENDIENTE_VERIFICACIÓN"
+    },
+    {
+      "id": "DEC-167-2026",
+      "titulo": "Decreto 167/2026 Del Comercio Interior",
+      "tipo": "DECRETO",
+      "gaceta": "Gaceta Oficial No. 69 Ordinaria de 2026",
+      "edicion": "Ordinaria",
+      "numero": "69",
+      "fecha_publicacion": "2026-08-28",
+      "fecha_vigencia": "2026-09-04",
+      "organo_emisor": "Consejo de Ministros",
+      "resumen": "Establece las regulaciones generales para el comercio mayorista y minorista, principios de tutela del consumidor, competencia leal y comercio electrónico.",
+      "materias": "comercio interior, mayorista, minorista, comercio electronico, consumidores, sanciones, precios",
+      "prioridad": "P2",
+      "goc_id": "GOC-2026-467-O69",
+      "raw_texto_oficial": "ARTÍCULO 1. El presente Decreto tiene por objeto regular las actividades del comercio interior mayorista y minorista, los servicios y la tutela de los derechos de los consumidores en todo el territorio nacional, aplicable a todos los actores económicos con independencia de su forma de gestión.\n\nARTÍCULO 2. Los sujetos del comercio interior comprenden las empresas estatales, sociedades mercantiles, cooperativas no agropecuarias (CNA) y trabajadores por cuenta propia habilitados formalmente.\n\nARTÍCULO 3. Los comercializadores están obligados a exhibir de manera visible y clara los precios de venta en moneda nacional (CUP), garantizar instrumentos de medición e instrumentos de pesaje debidamente certificados y contrastados por la Oficina Nacional de Normalización.\n\nARTÍCULO 4. Se prohíbe taxativamente la retención u ocultamiento injustificado de mercancías destinadas a la venta al público, la venta condicionada y el cobro de recargos no autorizados por pagos mediante pasarelas electrónicas nacionales.\n\nARTÍCULO 5. Los consumidores tienen derecho a recibir información veraz, oportuna y comprobable sobre las características, calidad, fecha de caducidad y origen de los bienes y servicios comercializados.\n\nDISPOSICIÓN FINAL ÚNICA. El presente Decreto entra en vigor a los siete días hábiles posteriores a su publicación en la Gaceta Oficial.",
+      "hash_oficial_esperado": "3fbf6b2257bb159bb840e6c5ee78996b79ea44f54e1fbef61955c421715456b9",
+      "estado": "PENDIENTE_VERIFICACIÓN"
+    },
+    {
+      "id": "DEC-168-2026",
+      "titulo": "Decreto 168/2026 Del Registro Central Comercial y Régimen Contravencional",
+      "tipo": "DECRETO",
+      "gaceta": "Gaceta Oficial No. 69 Ordinaria de 2026",
+      "edicion": "Ordinaria",
+      "numero": "69",
+      "fecha_publicacion": "2026-08-28",
+      "fecha_vigencia": "2026-09-04",
+      "organo_emisor": "Consejo de Ministros",
+      "resumen": "Regula la inscripción obligatoria, interoperabilidad digital y régimen contravencional con multas de 20 a 200 cuotas y clausura temporal.",
+      "materias": "registro central comercial, licencias comerciales, divisas, CUP, tramites, contravenciones, clausura",
+      "prioridad": "P2",
+      "goc_id": "GOC-2026-468-O69",
+      "raw_texto_oficial": "ARTÍCULO 1. La inscripción en el Registro Central Comercial adscrito al Ministerio del Comercio Interior es un requisito habilitante obligatorio y previo para el inicio de cualquier actividad de comercio mayorista o minorista en el territorio de la República.\n\nARTÍCULO 2. Constituyen contravenciones del comercio interior incurridas por personas naturales o jurídicas sancionadas con multa de 50 a 200 cuotas: ejercer el comercio sin inscripción vigente en el Registro Central Comercial, operar actividades mercantiles no autorizadas, o incumplir las disposiciones sanitarias y metrológicas obligatorias.\n\nARTÍCULO 3. Ante la reincidencia contravencional o negativa injustificada a la inspección estatal, las autoridades del Cuerpo de Inspección del MINCIN podrán imponer como sanción accesoria la clausura temporal del establecimiento por un término de hasta 30 días naturales y el decomiso de los bienes comercializados ilícitamente.\n\nARTÍCULO 4. El presunto infractor dispone de un término perentorio de diez días hábiles contados a partir de la notificación del acta para interponer Recurso de Alzada ante la autoridad jerárquica superior.",
+      "hash_oficial_esperado": "ca2aee3794625d97f2596be11ba8be3919e863fa95ec3ca01f46ba055d28bca7",
+      "estado": "PENDIENTE_VERIFICACIÓN"
+    },
+    {
+      "id": "RES-75-MINCIN-2026",
+      "titulo": "Resolución 75/2026 Procedimiento de Inspección y Medidas Cautelares en Comercio Interior",
+      "tipo": "RESOLUCION",
+      "gaceta": "Gaceta Oficial No. 69 Ordinaria de 2026",
+      "edicion": "Ordinaria",
+      "numero": "69",
+      "fecha_publicacion": "2026-08-28",
+      "fecha_vigencia": "2026-09-04",
+      "organo_emisor": "Ministerio del Comercio Interior (MINCIN)",
+      "resumen": "Procedimiento obligatorio para la formalización de actas de inspección, cadena de custodia probatoria y prohibición de decomisos arbitrarios.",
+      "materias": "inspeccion, acta de infraccion, debido proceso, medidas cautelares, comercio",
+      "prioridad": "P3",
+      "goc_id": "GOC-2026-469-O69",
+      "raw_texto_oficial": "ARTÍCULO 1. Los inspectores del Ministerio del Comercio Interior y de las direcciones integrales de supervisión deberán identificarse fehacientemente con su credencial oficial vigente antes de dar inicio a cualquier diligencia inspectiva.\n\nARTÍCULO 2. Toda acta de inspección contravencional debe detallar con fe pública: fecha, hora, lugar exacto, identidad de los comparecientes, hechos observados, normas expresamente infringidas y la descripción exhaustiva de las muestras o bienes retenidos bajo cadena de custodia documentada.\n\nARTÍCULO 3. Se prohíbe expresamente la retención o decomiso cautelar de bienes sin la entrega simultánea de copia fiel legible del Acta de Retención al responsable del establecimiento o persona que atienda la diligencia.",
+      "hash_oficial_esperado": "b8f6cbf841eb996452bebc94cfaf4018287e0fa19df7ea610dd560e95c33a921",
+      "estado": "PENDIENTE_VERIFICACIÓN"
+    }
+  ],
+  "relaciones_grafo": [
+    {
+      "origen_id": "DL-129-2026",
+      "destino_id": "DL-155-1994",
+      "tipo_relacion": "DEROGA",
+      "descripcion": "Deroga expresamente el Decreto-Ley 155/1994 y ordena el cese de decomisos del Registro Central Comercial."
+    },
+    {
+      "origen_id": "DEC-167-2026",
+      "destino_id": "COMERCIO_INTERIOR_CUBA",
+      "tipo_relacion": "CREA",
+      "descripcion": "Establece el marco normativo unificado del comercio mayorista y minorista."
+    },
+    {
+      "origen_id": "DEC-168-2026",
+      "destino_id": "DEC-167-2026",
+      "tipo_relacion": "DESARROLLA",
+      "descripcion": "Reglamenta el régimen registral y el sistema sancionatorio contravencional."
+    },
+    {
+      "origen_id": "RES-75-MINCIN-2026",
+      "destino_id": "DEC-168-2026",
+      "tipo_relacion": "IMPLEMENTA",
+      "descripcion": "Implementa el manual de inspección, actas y cadena de custodia probatoria."
+    }
+  ]
+}
